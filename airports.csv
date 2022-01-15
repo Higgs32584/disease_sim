@@ -1,0 +1,529 @@
+IATA Code,Airport,Annual Passengers,Country,Location,Passenger Role
+ANU,V. C. Bird International Airport,919748,Antigua and Barbuda,Antigua,Small
+AUA,Queen Beatrix International Airport,2089021,Aruba,Oranjestad,Small
+NAS,Lynden Pindling International Airport,3339876,Bahamas,Nassau,Medium
+BGI,Grantley Adams International Airport,1966789,Barbados,Bridgetown,Small
+EIS,Terrance B. Lettsome International Airport,310089,British Virgin Islands,Road Town,Non-Hub
+BON,Flamingo International Airport,462897,Caribbean Netherlands,"Kralendijk, Bonaire",Small
+GCM,Owen Roberts International Airport,1035826,Cayman Islands,Georgetown,Small
+HAV,José Martí International Airport,4067980,Cuba,Havana,Medium
+SCU,Antonio Maceo Airport,280000,Cuba,Santiago de Cuba,Non-Hub
+CUR,Curaçao International Airport,1835000,Curaçao,Willemstad,Small
+LRM,La Romana International Airport,208749,Dominican Republic,La Romana,Non-Hub
+PUJ,Punta Cana International Airport,6366552,Dominican Republic,Punta Cana,Medium
+STI,Cibao International Airport,1319490,Dominican Republic,Santiago de los Caballeros,Small
+SDQ,Las Américas International Airport,3537306,Dominican Republic,Santo Domingo,Medium
+PTP,Pointe-à-Pitre International Airport,2089763,Guadeloupe,Pointe-à-Pitre,Small
+PAP,Toussaint Louverture International Airport,1500521,Haiti,Port-au-Prince,Small
+KIN,Norman Manley International Airport,1502973,Jamaica,Kingston,Small
+MBJ,Sangster International Airport,3800608,Jamaica,Montego Bay,Medium
+FDF,Martinique Aimé Césaire International Airport,1729711,Martinique,Fort-de-France,Small
+BQN,Rafael Hernández Airport,471228,Puerto Rico,Aguadilla,Small
+SJU,Luis Muñoz Marín International Airport,8733161,Puerto Rico,San Juan,Medium
+SKB,Robert L. Bradshaw International Airport,350727,Saint Kitts and Nevis,Saint Kitts,Small
+UVF,Hewanorra International Airport,620401,Saint Lucia,Vieux Fort Quarter,Small
+SXM,Princess Juliana International Airport,1645105,Sint Maarten,Philipsburg,Small
+POS,Piarco International Airport,2504469,Trinidad and Tobago,Port of Spain,Small
+TAB,A.N.R. Robinson International Airport,739622,Trinidad and Tobago,Tobago,Small
+STT,Cyril E. King Airport,1215000,U.S. Virgin Islands,Saint Thomas,Small
+STX,Henry E. Rohlsen Airport,375000,U.S. Virgin Islands,Saint Croix,Small
+BDA,L.F. Wade International Airport,,Bermuda,St. George's,Small
+YXX,Abbotsford International Airport,487833,Canada,Abbotsford,Non-Hub
+YYC,Calgary International Airport,15475759,Canada,Calgary,Medium
+YYG,Charlottetown Airport,316628,Canada,Charlottetown,Non-Hub
+YEG,Edmonton International Airport,7981074,Canada,Edmonton,Medium
+YFC,Fredericton International Airport,349832,Canada,Fredericton,Non-Hub
+YHZ,Halifax Stanfield International Airport,10897234,Canada,Halifax (Goffs),Medium
+YHM,John C. Munro Hamilton International Airport,312839,Canada,Hamilton,Non-Hub
+YLW,Kelowna International Airport,1593606,Canada,Kelowna,Small
+YQM,Greater Moncton Roméo LeBlanc International Airport,644275,Canada,Moncton (Dieppe),Small
+YUL,Montréal–Trudeau International Airport,15517382,Canada,Montreal (Dorval),Medium
+YOW,Ottawa Macdonald–Cartier International Airport,4656360,Canada,Ottawa,Medium
+YQB,Québec City Jean Lesage International Airport,1584713,Canada,Quebec City,Small
+YQR,Regina International Airport,1255957,Canada,Regina,Small
+YXE,Saskatoon John G. Diefenbaker International Airport,1443446,Canada,Saskatoon,Small
+YYT,St. John's International Airport,1536000 (est.),Canada,St. John's,Small
+YYZ,Toronto Pearson International Airport,41036847,Canada,Toronto (Mississauga),Large
+YVR,Vancouver International Airport,20315978,Canada,Vancouver (Richmond),Large
+YYJ,Victoria International Airport,1710825,Canada,Victoria,Small
+YQC,Windsor International Airport,274218,Canada,Windsor,Non-Hub
+YWG,Winnipeg James Armstrong Richardson International Airport,3778035,Canada,Winnipeg,Medium
+ACA,Acapulco International Airport,730382,Mexico,Acapulco,Small
+AGU,Aguascalientes International Airport,621008,Mexico,Aguascalientes,Small
+CUN,Cancún International Airport,19596485,Mexico,Cancún,Large
+CUU,Chihuahua International Airport,1110513,Mexico,Chihuahua City,Small
+CME,Ciudad del Carmen International Airport,623154,Mexico,Ciudad del Carmen,Small
+CZM,Cozumel International Airport,553776,Mexico,Cozumel,Small
+CUL,Culiacán International Airport,1432315,Mexico,Culiacán,Small
+DGO,Durango International Airport,315835,Mexico,Durango,Non-Hub
+GDL,Miguel Hidalgo y Costilla Guadalajara International Airport,9758516,Mexico,Guadalajara,Medium
+HMO,Hermosillo International Airport,1349300,Mexico,Hermosillo,Small
+HUX,Bahías de Huatulco International Airport,618767,Mexico,Huatulco,Small
+ZIH,Ixtapa-Zihuatanejo International Airport,562099,Mexico,Ixtapa,Small
+BJX,Bajío International Airport,1492100,Mexico,León,Small
+LTO,Loreto International Airport,57907,Mexico,Loreto,Non-Hub
+SJD,Los Cabos International Airport,3523010,Mexico,Los Cabos,Medium
+ZLO,Playa de Oro International Airport,169485,Mexico,Manzanillo,Non-Hub
+MZT,Mazatlán International Airport,853409,Mexico,Mazatlán,Small
+MID,Mérida International Airport,1663616,Mexico,Mérida,Small
+MEX,Mexico City International Airport,38433078,Mexico,Mexico City,Large
+MTY,Monterrey International Airport,8461917,Mexico,Monterrey,Medium
+MLM,General Francisco Mujica International Airport,467297,Mexico,Morelia,Small
+OAX,Oaxaca International Airport,663187,Mexico,Oaxaca City,Small
+PBC,Puebla International Airport,327811,Mexico,Puebla,Non-Hub
+PVR,Licenciado Gustavo Díaz Ordaz International Airport,3517801,Mexico,Puerto Vallarta,Medium
+REX,General Lucio Blanco International Airport,466934,Mexico,Reynosa,Small
+SLW,Saltillo Airport,74419,Mexico,Saltillo,Non-Hub
+SLP,San Luis Potosí International Airport,444469,Mexico,San Luis Potosí City,Small
+TAM,Tampico International Airport,763744,Mexico,Tampico,Small
+TIJ,Tijuana International Airport,4853797,Mexico,Tijuana,Medium
+TRC,Torreón International Airport,556449,Mexico,Torreón,Small
+TGZ,Tuxtla Gutiérrez International Airport,1121332,Mexico,Tuxtla Gutiérrez,Small
+UPN,Uruapan International Airport,110067,Mexico,Uruapan,Non-Hub
+VER,Veracruz International Airport,1249914,Mexico,Veracruz,Small
+VSA,Villahermosa International Airport,1273140,Mexico,Villahermosa,Small
+ZCL,Zacatecas International Airport,320065,Mexico,Zacatecas City,Non-Hub
+AKC,Akron Executive Airport,,United States,Akron,Non-Hub/Reliever
+ALB,Albany International Airport,,United States,Albany,Small
+ABQ,Albuquerque International Sunport,,United States,Albuquerque,Medium
+ANC,Ted Stevens Anchorage International Airport,,United States,Anchorage,Medium
+ATW,Appleton International Airport,,United States,Appleton,Small
+ATL,Hartsfield–Jackson Atlanta International Airport,,United States,Atlanta,Large
+ACY,Atlantic City International Airport,,United States,Atlantic City,Small
+AUS,Austin–Bergstrom International Airport,,United States,Austin (TX),Medium
+BWI,Baltimore/Washington International Airport,,United States,Baltimore,Large
+BGR,Bangor International Airport,,United States,Bangor,Non-Hub
+BLI,Bellingham International Airport,,United States,Bellingham,Small
+BHM,Birmingham–Shuttlesworth International Airport,,United States,Birmingham,Small
+BOI,Boise Airport,,United States,Boise,Medium
+BOS,Logan International Airport,,United States,Boston,Large
+BUF,Buffalo Niagara International Airport,,United States,Buffalo,Medium
+CLT,Charlotte Douglas International Airport,,United States,Charlotte,Large
+CHS,Charleston International Airport,,United States,Charleston (SC),Medium
+MDW,Midway International Airport,,United States,Chicago,Large
+CVG,Cincinnati/Northern Kentucky International Airport,,United States,Cincinnati,Medium
+CLE,Cleveland Hopkins International Airport,,United States,Cleveland,Medium
+CMH,John Glenn Columbus International Airport,,United States,Columbus (OH),Medium
+DFW,Dallas/Fort Worth International Airport,,United States,Dallas,Large
+DAY,Dayton International Airport,,United States,Dayton (OH),Small
+DEN,Denver International Airport,,United States,Denver,Large
+DSM,Des Moines International Airport,,United States,Des Moines (IA),Small
+DTW,Detroit Metropolitan Airport,,United States,Detroit,Large
+ELP,El Paso International Airport,,United States,El Paso,Medium
+FAI,Fairbanks International Airport,,United States,Fairbanks,Small
+FLL,Fort Lauderdale–Hollywood International Airport,,United States,Fort Lauderdale,Large
+RSW,Southwest Florida International Airport,,United States,Fort Myers,Medium
+FAT,Fresno Yosemite International Airport,,United States,Fresno,Small
+GRR,Gerald R. Ford International Airport,,United States,Grand Rapids,Medium
+GRB,Green Bay–Austin Straubel International Airport,,United States,Green Bay,Small
+GSO,Piedmont Triad International Airport,,United States,Greensboro,Small
+MDT,Harrisburg International Airport,,United States,Harrisburg,Small
+BDL,Bradley International Airport,,United States,Hartford (CT),Medium
+ITO,Hilo International Airport,,United States,Hilo,Small
+HNL,Daniel K. Inouye International Airport,,United States,Honolulu,Large
+IAH,George Bush Intercontinental Airport,,United States,Houston,Large
+HSV,Huntsville International Airport,,United States,Huntsville (AL),Small
+IND,Indianapolis International Airport,,United States,Indianapolis,Medium
+JAN,Jackson–Medgar Wiley Evers International Airport,,United States,Jackson (MS),Small
+JAX,Jacksonville International Airport,,United States,Jacksonville,Medium
+JNU,Juneau International Airport,,United States,Juneau,Non-Hub
+MCI,Kansas City International Airport,,United States,Kansas City (MO),Medium
+KTN,Ketchikan International Airport,,United States,Ketchikan,Non-Hub
+EYW,Key West International Airport,,United States,Key West,Small
+KOA,Kona International Airport,,United States,Kailua-Kona,Small
+TYS,McGhee Tyson Airport,,United States,Knoxville,Small
+LAL,Lakeland Linder International Airport,,United States,Lakeland,Reliever
+LAN,Capital Region International Airport,,United States,Lansing,Non-Hub
+LAS,McCarran International Airport,,United States,Las Vegas,Large
+LIT,Clinton National Airport,,United States,Little Rock,Small
+LAX,Los Angeles International Airport,,United States,Los Angeles,Large
+SDF,Louisville International Airport,,United States,Louisville,Medium
+MLB,Melbourne Orlando International Airport,,United States,Melbourne (FL),Non-Hub
+MEM,Memphis International Airport,,United States,Memphis,Medium
+MIA,Miami International Airport,,United States,Miami,Large
+MAF,Midland International Air and Space Port,,United States,Midland,Small
+MKE,General Mitchell International Airport,,United States,Milwaukee,Medium
+MSP,Minneapolis–Saint Paul International Airport,,United States,Minneapolis/St. Paul,Large
+MYR,Myrtle Beach International Airport,,United States,Myrtle Beach,Small
+BNA,Nashville International Airport,,United States,Nashville,Medium
+MSY,Louis Armstrong New Orleans International Airport,,United States,New Orleans,Medium
+JFK,John F. Kennedy International Airport,,United States,New York City,Large
+EWR,Newark Liberty International Airport,,United States,Newark,Large
+SWF,Stewart International Airport,,United States,Newburgh,Small
+ORF,Norfolk International Airport,,United States,Norfolk (VA),Medium
+OAK,Oakland International Airport,,United States,Oakland,Medium
+OKC,Will Rogers World Airport,,United States,Oklahoma City,Medium
+OMA,Eppley Airfield,,United States,Omaha,Medium
+ONT,Ontario International Airport,,United States,Ontario,Medium
+SNA,John Wayne Airport,,United States,Orange County,Medium
+MCO,Orlando International Airport,,United States,Orlando,Large
+SFB,Orlando Sanford International Airport,,United States,Orlando/Sanford,Small
+PSP,Palm Springs International Airport,,United States,Palm Springs,Small
+ECP,Northwest Florida Beaches International Airport,,United States,Panama City (FL),Medium
+PNS,Pensacola International Airport,,United States,Pensacola,Small
+PHL,Philadelphia International Airport,,United States,Philadelphia,Large
+PHX,Phoenix Sky Harbor International Airport,,United States,Phoenix,Large
+AZA,Phoenix–Mesa Gateway Airport,,United States,Phoenix/Mesa,Small
+PIT,Pittsburgh International Airport,,United States,Pittsburgh,Medium
+PWM,Portland International Jetport,,United States,Portland (ME),Small
+PDX,Portland International Airport,,United States,Portland (OR),Large
+PVD,Rhode Island T. F. Green International Airport,,United States,Providence,Medium
+RAC,Batten International Airport,,United States,Racine,Small
+RDU,Raleigh–Durham International Airport,,United States,Raleigh/Durham,Medium
+RNO,Reno–Tahoe International Airport,,United States,Reno,Medium
+RIC,Richmond International Airport,,United States,Richmond (VA) (Sandston),Medium
+RST,Rochester International Airport,,United States,Rochester (MN),Non-Hub
+ROC,Greater Rochester International Airport,,United States,Rochester (NY),Small
+RFD,Chicago Rockford International Airport,,United States,Rockford (IL),Non-Hub
+SMF,Sacramento International Airport,,United States,Sacramento,Medium
+SLC,Salt Lake City International Airport,,United States,Salt Lake City,Large
+SAT,San Antonio International Airport,,United States,San Antonio,Medium
+SBD,San Bernardino International Airport,,United States,San Bernardino,Reliever
+SAN,San Diego International Airport,,United States,San Diego,Large
+SFO,San Francisco International Airport,,United States,San Francisco,Large
+SJC,San Jose International Airport,,United States,San Jose (CA),Medium
+SRQ,Sarasota–Bradenton International Airport,,United States,Sarasota/Bradenton,Small
+SAV,Savannah/Hilton Head International Airport,,United States,Savannah (GA)/Hilton Head (SC),Small
+LKE,Kenmore Air Harbor Seaplane Base,,United States,Seattle,Reliever
+SBM,Sheboygan County Memorial Airport,,United States,Sheboygan,Non-Hub
+PAE,Paine Field,,United States,Snohomish County (WA),Reliever
+GEG,Spokane International Airport,,United States,Spokane,Medium
+STL,St. Louis Lambert International Airport,,United States,St. Louis,Medium
+PIE,St. Pete–Clearwater International Airport,,United States,St. Petersburg (FL),Small
+SYR,Syracuse Hancock International Airport,,United States,Syracuse,Small
+TLH,Tallahassee International Airport,,United States,Tallahassee,Small
+TPA,Tampa International Airport,,United States,Tampa,Large
+TUS,Tucson International Airport,,United States,Tucson,Small
+TUL,Tulsa International Airport,,United States,Tulsa,Small
+DCA,Ronald Reagan Washington National Airport**,,United States,"Washington, D.C.",Large
+PBI,Palm Beach International Airport,,United States,West Palm Beach,Medium
+AVP,Wilkes-Barre/Scranton International Airport,,United States,Wilkes-Barre/Scranton,Small
+ILM,Wilmington International Airport,,United States,Wilmington (NC),Small
+EZE,Ministro Pistarini International Airport,9127908,Argentina,Buenos Aires,Medium
+BRC,San Carlos de Bariloche Airport,1038651,Argentina,Bariloche,Small
+COR,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,1673266 (2014),Argentina,Córdoba,Small
+MDZ,Governor Francisco Gabrielli International Airport,1308113 (2014),Argentina,Mendoza,Small
+IGR,Cataratas del Iguazú International Airport,716124 (2013),Argentina,Puerto Iguazú,Small
+LPB,El Alto International Airport,1793668 (2013),Bolivia,La Paz,Small
+VVI,Viru Viru International Airport,1716358 (2013),Bolivia,Santa Cruz de la Sierra,Small
+CBB,Jorge Wilstermann International Airport,986358 (2013),Bolivia,Cochabamba,Small
+AJU,Santa Maria Airport,1280236,Brazil,Aracaju,Small
+BEL,Val de Cães International Airport,3714761,Brazil,Belém,Medium
+CNF,Tancredo Neves International Airport,10164077,Brazil,Belo Horizonte,Medium
+BVB,Boa Vista International Airport,291163,Brazil,Boa Vista,Small
+BSB,Brasília International Airport,16912680,Brazil,Brasília,Large
+VCP,Viracopos International Airport,10324658,Brazil,Campinas,Medium
+CGR,Campo Grande International Airport,1555602,Brazil,Campo Grande,Small
+CGB,Marechal Rondon International Airport,3308289,Brazil,Cuiabá,Small
+CWB,Afonso Pena International Airport,7235634,Brazil,Curitiba,Medium
+FLN,Hercílio Luz International Airport,3693486,Brazil,Florianópolis,Medium
+FOR,Pinto Martins International Airport,6347543,Brazil,Fortaleza,Medium
+IGU,Foz do Iguaçu International Airport,2177725,Brazil,Foz do Iguaçu,Small
+GYN,Santa Genoveva Airport,3312290,Brazil,Goiânia,Small
+JPA,Presidente Castro Pinto International Airport,1463315,Brazil,João Pessoa,Small
+MCZ,Zumbi dos Palmares International Airport,1982393,Brazil,Maceió,Small
+MAO,Eduardo Gomes International Airport,3258157,Brazil,Manaus,Small
+NAT,Greater Natal International Airport,2403135,Brazil,Natal,Small
+PNZ,Petrolina Airport,455238,Brazil,Petrolina,Small
+POA,Salgado Filho Porto Alegre International Airport,8354961,Brazil,Porto Alegre,Medium
+PVH,Governador Jorge Teixeira de Oliveira International Airport,933666,Brazil,Porto Velho,Small
+REC,Guararapes International Airport,6700696,Brazil,Recife,Medium
+RBR,Rio Branco International Airport,354249,Brazil,Rio Branco,Small
+GIG,Rio de Janeiro/Galeão International Airport,16942229,Brazil,Rio de Janeiro,Medium
+SSA,Deputado Luís Eduardo Magalhães International Airport,9047403,Brazil,Salvador,Medium
+SLZ,Marechal Cunha Machado International Airport,1701015,Brazil,São Luís,Small
+CGH,São Paulo–Congonhas Airport,21859453,Brazil,São Paulo,Large
+THE,Teresina Airport,1085974,Brazil,Teresina,Small
+UDI,Uberlândia Airport,1050330,Brazil,Uberlândia,Small
+VIX,Eurico de Aguiar Salles Airport,3583875,Brazil,Vitória,Medium
+AXM,El Edén International Airport,,Colombia,Armenia,Small
+BAQ,Ernesto Cortissoz International Airport,,Colombia,Barranquilla,Medium
+BOG,El Dorado International Airport,,Colombia,Bogotá,Large
+BGA,Palonegro International Airport,,Colombia,Bucaramanga,Medium
+BUN,Gerardo Tobar López Airport,,Colombia,Buenaventura,Small
+CLO,Alfonso Bonilla Aragón International Airport,,Colombia,Cali,Large
+CTG,Rafael Núñez International Airport,,Colombia,Cartagena,Large
+CUC,Camilo Daza International Airport,,Colombia,Cúcuta,Medium
+IBE,Perales Airport,,Colombia,Ibagué,Small
+IPI,San Luis Airport,,Colombia,Ipiales,Small
+FLA,Gustavo Artunduaga Paredes Airport,,Colombia,Florencia,Small
+LET,Alfredo Vásquez Cobo International Airport,,Colombia,Leticia,Medium
+MCJ,Jorge Isaacs Airport,,Colombia,Maicao,Small
+MZL,La Nubia Airport,,Colombia,Manizales,Small
+MDE,José María Córdova International Airport,,Colombia,Medellín,Large
+MVP,Fabio Alberto León Bentley Airport,,Colombia,Mitú,Small
+MTR,Los Garzones Airport,,Colombia,Montería,Small
+NVA,Benito Salas Airport,,Colombia,Neiva,Small
+PSO,Antonio Nariño Airport,,Colombia,Pasto,Small
+PEI,Matecaña International Airport,,Colombia,Pereira,Medium
+PPN,Guillermo León Valencia Airport,,Colombia,Popayán,Small
+PVA,El Embrujo Airport,,Colombia,Providence Island,Medium(works in conjunction with ADZ airport)
+UIB,El Caraño Airport,,Colombia,Quibdó,Small
+RCH,Almirante Padilla Airport,,Colombia,Riohacha,Small
+ADZ,Gustavo Rojas Pinilla International Airport,,Colombia,San Andrés,Medium
+TLU,Golfo de Morrosquillo Airport,,Colombia,Tolú,Small
+TCO,La Florida Airport,,Colombia,Tumaco,Small
+SMR,Simón Bolívar International Airport,,Colombia,Santa Marta,Medium
+CZU,Las Brujas Airport,,Colombia,Sincelejo,Small
+VUP,Alfonso López Pumarejo Airport,,Colombia,Valledupar,Small
+VVC,La Vanguardia Airport,,Colombia,Villavicencio,Small
+EYP,El Alcaraván Airport,,Colombia,Yopal,Small
+SHJ,Sharjah International Airport,11993887,United Arab Emirates,Sharjah,
+AJA,Ajaccio Napoleon Bonaparte Airport,1366020 (2014),France,Ajaccio,Small
+BIA,Poretta Airport,1162840 (2014),France,Bastia,Small
+BVA,Beauvais–Tillé Airport,4330019 (2015),France,Beauvais,Medium
+EGC,Bergerac Dordogne Périgord Airport,277312 (2014),France,Bergerac,Non-Hub
+BZR,Béziers Cap d'Agde Airport,243980 (2014),France,Béziers,Non-Hub
+BIQ,Biarritz Pays Basque Airport,1064402 (2014),France,Biarritz,Small
+BOD,Bordeaux–Mérignac Airport,5289638 (2015),France,Bordeaux,Medium
+BES,Brest Bretagne Airport,998393 (2014),France,Brest,Small
+CCF,Carcassonne Airport,413724 (2014),France,Carcassonne,Small
+CMF,Chambéry Airport,223914 (2014),France,Chambéry,Non-Hub
+DNR,Dinard–Pleurtuit–Saint-Malo Airport,114016 (2014),France,Dinard,Non-Hub
+FSC,Figari–Sud Corse Airport,504497 (2014),France,Figari,Small
+GNB,Alpes–Isère Airport,320647 (2014),France,Grenoble,Non-Hub
+LRH,La Rochelle – Île de Ré Airport,212361 (2014),France,Île de Ré,Non-Hub
+LIL,Lille Airport,1596700 (2014),France,Lille,Small
+LIG,Limoges – Bellegarde Airport,290792 (2014),France,Limoges,Non-Hub
+LYS,Lyon–Saint Exupéry Airport,8703354 (2015),France,Lyon,Medium
+MRS,Marseille Provence Airport,8182237 (2014),France,Marseille,Medium
+BSL,EuroAirport Basel Mulhouse Freiburg,7061059 (2015),France,Mulhouse,Medium
+NTE,Nantes Atlantique Airport,4150000 (2014),France,Nantes,Medium
+NCE,Nice Côte d'Azur Airport,12016730 (2015),France,Nice,Medium
+FNI,Nîmes–Alès–Camargue–Cévennes Airport,207553 (2014),France,Nîmes,Non-Hub
+CDG,Charles de Gaulle Airport,65766986 (2015),France,Paris,Large
+PUF,Pau Pyrénées Airport,621492 (2014),France,Pau,Small
+PGF,Perpignan–Rivesaltes Airport,353872 (2014),France,Perpignan,Small
+SXB,Strasbourg Airport,1167612 (2014),France,Strasbourg,Small
+TLN,Toulon–Hyères Airport,550768 (2014),France,Toulon,Small
+TLS,Toulouse–Blagnac Airport,7669064 (2015),France,Toulouse,Medium
+TUF,Tours Val de Loire Airport,184122 (2014),France,Tours,Non-Hub
+ORK,Cork Airport,2071375,Ireland,Cork,
+DUB,Dublin Airport,25049220,Ireland,Dublin,
+KIR,Kerry Airport,261705,Ireland,Kerry,
+SNN,Shannon Airport,1714770,Ireland,Shannon,
+AMS,Amsterdam Airport Schiphol,58285025,Netherlands,Amsterdam,
+EIN,Eindhoven Airport,4332915,Netherlands,Eindhoven,
+GRQ,Groningen Airport Eelde,220825,Netherlands,Groningen,
+RTM,Rotterdam The Hague Airport,1692505,Netherlands,Rotterdam,
+LCG,A Coruña Airport,1025650,Spain,A Coruña,Small
+ALC,Alicante–Elche Miguel Hernández Airport,10574415,Spain,Alicante,Medium
+LEI,Almería Airport,691310,Spain,Almería,Small
+OVD,Asturias Airport,1119455,Spain,Asturias,Small
+BCN,Josep Tarradellas Barcelona–El Prat Airport,39711270,Spain,Barcelona,Large
+FUE,Fuerteventura Airport,5026780,Spain,Fuerteventura,Medium
+GRO,Girona-Costa Brava Airport,1775360,Spain,Girona,Small
+LPA,Gran Canaria Airport,10627340,Spain,Gran Canaria,Medium
+GRX,Federico García Lorca Granada Airport,707370,Spain,Granada,Small
+IBZ,Ibiza Airport,6337495,Spain,Ibiza,Medium
+XRY,Jerez Airport,823075,Spain,Jerez de la Frontera,Small
+SPC,La Palma Airport,971630,Spain,La Palma,Small
+ACE,Lanzarote Airport,6124335,Spain,Lanzarote,Medium
+MAD,Madrid-Barajas Airport,46828405,Spain,Madrid,Large
+AGP,Málaga Airport,14403995,Spain,Málaga,Medium
+MAH,Menorca Airport,2867440,Spain,Menorca,Small
+RMU,Región de Murcia International Airport,1067625,Spain,Murcia,Small
+PMI,Palma de Mallorca Airport,23745075,Spain,Palma de Mallorca,Large
+REU,Reus Airport,705180,Spain,Reus,Small
+SDR,Santander Airport,696785,Spain,Santander,Small
+SCQ,Santiago de Compostela Airport,2296215,Spain,Santiago de Compostela,Small
+SVQ,Seville Airport,4308825,Spain,Seville,Medium
+TFN,Tenerife North–Ciudad de La Laguna Airport,3815345,Spain,Tenerife,Medium
+VLC,Valencia Airport,5051965,Spain,Valencia,Medium
+VLL,Valladolid Airport,218270,Spain,Valladolid,Non-Hub
+ZAZ,Zaragoza Airport,423765,Spain,Zaragoza,Small
+GRZ,Graz Airport,963396 (2015),Austria,Graz,
+KLU,Klagenfurt Airport,227625 (2015),Austria,Klagenfurt,
+INN,Innsbruck Airport,991356 (2014),Austria,Innsbruck,
+LNZ,Linz Airport,529785 (2015),Austria,Linz,
+SZG,Salzburg Airport,1819520 (2014),Austria,Salzburg,
+VIE,Vienna International Airport,22775054 (2015),Austria,Vienna,
+FKB,Karlsruhe/Baden-Baden Airport,1051435,Germany,Baden-Baden/Karlsruhe,Small
+BER,Berlin Brandenburg Airport,N/A,Germany,Berlin,Large
+BRE,Bremen Airport,2660754,Germany,Bremen,Small
+CGN,Cologne/Bonn Airport,10338375,Germany,Cologne/Bonn,Medium
+DTM,Dortmund Airport,1985379,Germany,Dortmund,Small
+DUS,Düsseldorf Airport,22480000,Germany,Düsseldorf,Large
+FRA,Frankfurt Airport,61032022,Germany,Frankfurt,Large
+MLH/BSL/EAP,EuroAirport Basel–Mulhouse–Freiburg,7061059,Germany,Freiburg im Breisgau,Medium
+FDH,Friedrichshafen Airport,559985,Germany,Friedrichshafen,Small
+HAM,Hamburg Airport,15610072,Germany,Hamburg,Medium
+HAJ,Hannover Airport,5452669,Germany,Hanover,Medium
+LEJ,Leipzig/Halle Airport,2321975,Germany,Leipzig,Small
+LBC,Lübeck Airport,168593 (2014),Germany,Lübeck,Non-Hub
+FMM,Memmingen Airport,883490,Germany,Memmingen,Small
+MUC,Munich Airport,40981522,Germany,Munich,Large
+NUE,Nuremberg Airport,3384925,Germany,Nuremberg,Small
+STR,Stuttgart Airport,10526920,Germany,Stuttgart,Medium
+NRN,Weeze Airport,1909704,Germany,Weeze,Small
+BUD,Budapest Ferenc Liszt International Airport,11500000+,Hungary,Budapest,
+DEB,Debrecen International Airport,248965,Hungary,Debrecen,
+SOB,Hévíz-Balaton Airport,17663,Hungary,Hévíz,
+QGY,Győr-Pér International Airport,21454,Hungary,Győr,
+QPJ,Pécs-Pogány International Airport,3664,Hungary,Pécs,
+BSL,EuroAirport Basel Mulhouse Freiburg,7060925,Switzerland,Basel,
+ZRH,Zurich Airport,26281095,Switzerland,Zürich,
+ATH,Athens International Airport,18086845,Greece,Athens,
+EFL,Kefalonia Island International Airport,492385,Greece,Cephalonia,
+CHQ,Chania International Airport,2702460,Greece,Chania,
+JKH,Chios Island National Airport,194910,Greece,Chios,
+CFU,Corfu International Airport,2437835,Greece,Corfu,
+HER,Heraklion International Airport,6057175,Greece,Heraklion,
+KLX,Kalamata International Airport,188340,Greece,Kalamata,
+AOK,Karpathos Island National Airport,222650,Greece,Karpathos,
+KVA,Kavala International Airport,243455,Greece,Kavala,
+KGS,Kos International Airport,2144010,Greece,Kos,
+JMK,Mykonos Airport,876000,Greece,Mykonos,
+MJT,Mytilene International Airport,481070,Greece,Mytilene,
+PVK,Aktion National Airport,387995,Greece,Preveza,
+RHO,Rhodes International Airport,4578925,Greece,Rhodes,
+SMI,Samos International Airport,402960,Greece,Samos,
+JTR,Santorini (Thira) International Airport,1495770,Greece,Santorini,
+JSI,Skiathos International Airport,352955,Greece,Skiathos,
+SKU,Skyros Island National Airport,21535,Greece,Skyros,
+SKG,Thessaloniki Airport,5341045,Greece,Thessaloniki,
+VOL,Nea Anchialos National Airport,24455,Greece,Volos,
+ZTH,Zakynthos International Airport,1268375,Greece,Zakynthos,
+AHO,Fertilia Airport,1677905,Italy,Alghero,Small
+AOI,Ancona Airport,521220,Italy,Ancona,Small
+BRI,Palese Airport,3958790,Italy,Bari,Medium
+BGY,Orio al Serio Airport,10404690,Italy,Bergamo,Medium
+BLQ,Bologna Airport,6889740,Italy,Bologna,Medium
+VBS,Brescia Airport,7665,Italy,Brescia,Reliever
+BDS,Brindisi Airport,2258255,Italy,Brindisi,Small
+CAG,Cagliari Airport,3719350,Italy,Cagliari,Medium
+CTA,Fontanarossa Airport,7105455,Italy,Catania,Medium
+CUF,Cuneo Levaldigi Airport,129940,Italy,Cuneo,Non-Hub
+FLR,Peretola Airport,2419950,Italy,Florence,Small
+GOA,Cristoforo Colombo Airport,1363275,Italy,Genoa,Small
+SUF,Lamezia Terme Airport,2342570,Italy,Lamezia,Small
+LIN,Linate Airport,9689655,Italy,Milan,Medium
+NAP,Naples International Airport,6163025,Italy,Naples,Medium
+OLB,Costa Smeralda Airport,2240005,Italy,Olbia,Small
+PMO,Palermo Airport,4910710,Italy,Palermo,Medium
+PEG,San Egidio Airport,274115,Italy,Perugia,Non-Hub
+PSR,Abruzzo Airport,613565,Italy,Pescara,Small
+PSA,Galileo Galilei Airport,4804860,Italy,Pisa,Medium
+FCO,Leonardo da Vinci–Fiumicino Airport,40463170,Italy,Rome,Large
+TPS,Vincenzo Florio Airport,1587020,Italy,Trapani,Small
+TRS,Friuli Venezia Giulia Airport,741680,Italy,Trieste,Small
+TRN,Caselle Airport,3666425,Italy,Turin,Medium
+VCE,Venice Marco Polo Airport,8750875,Italy,Venice,Medium
+VRN,Verona Villafranca Airport,2591135,Italy,Verona,Small
+AAQ,Anapa Airport,1178984,Russia,Anapa,Small
+ASF,Narimanovo Airport,799536,Russia,Astrakhan,Small
+BAX,Barnaul Airport,378010,Russia,Barnaul,Small
+EGO,Belgorod International Airport,316000,Russia,Belgorod,Non-Hub
+BQS,Ignatyevo Airport,362953,Russia,Blagoveshchensk,Non-Hub
+CEK,Chelyabinsk Airport,1239212,Russia,Chelyabinsk,Small
+HTA,Chita-Kadala International Airport,2117000 (App),Russia,Chita,Small
+IKT,Irkutsk Airport,>1112428,Russia,Irkutsk,Small
+KGD,Khrabrovo Airport,1542360,Russia,Kaliningrad,Small
+KZN,Kazan Airport,1794735,Russia,Kazan,Small
+KHV,Khabarovsk Novy Airport,1821694,Russia,Khabarovsk,Small
+KRR,Pashkovsky Airport,3128248,Russia,Krasnodar,Small
+KJA,Yemelyanovo International Airport,1804821,Russia,Krasnoyarsk,Small
+GDX,Sokol Airport,326629,Russia,Magadan,Non-Hub
+MCX,Uytash Airport,702715,Russia,Makhachkala,Small
+MRV,Mineralnye Vody Airport,1957121,Russia,Mineralnye Vody,Small
+DME,Domodedovo International Airport,33039531,Russia,Moscow,Large
+MMK,Murmansk Airport,751258,Russia,Murmansk,Small
+NJC,Nizhnevartovsk Airport,660652,Russia,Nizhnevartovsk,Small
+NBC,Begishevo Airport,366671,Russia,Nizhnekamsk,Small
+GOJ,Strigino Airport,952078,Russia,Nizhny Novgorod,Small
+OVB,Tolmachevo Airport,3703211,Russia,Novosibirsk,Medium
+OMS,Omsk Tsentralny Airport,887600,Russia,Omsk,Small
+REN,Orenburg Tsentralny Airport,629910,Russia,Orenburg,Small
+PEE,Perm International Airport,1288368,Russia,Perm,Small
+PKC,Yelizovo Airport,602800,Russia,Petropavlovsk-Kamchatsky,Small
+ROV,Platov International Airport,2062761,Russia,Rostov-on-Don,Small
+LED,Pulkovo Airport,13500125,Russia,Saint Petersburg,Medium
+KUF,Samara Kurumoch Airport,2208127,Russia,Samara,Small
+GSV,Saratov Gagarin Airport,449304,Russia,Saratov,Small
+AER,Sochi International Airport,4088606,Russia,Sochi,Medium
+SGC,Surgut International Airport,989751,Russia,Surgut,Small
+SCW,Syktyvkar Airport,440546,Russia,Syktyvkar,Small
+TOF,Bogashevo Airport,226328,Russia,Tomsk,Non-Hub
+TJM,Roshchino International Airport,1399264,Russia,Tyumen,Small
+UFA,Ufa International Airport,2313358,Russia,Ufa,Small
+VVO,Vladivostok International Airport,1698000,Russia,Vladivostok,Small
+OGZ,Beslan Airport,338011,Russia,Vladikavkaz,Non-Hub
+VOG,Volgograd International Airport,901522,Russia,Volgograd,Small
+VOZ,Voronezh International Airport,455078,Russia,Voronezh,Small
+YKS,Yakutsk Airport,871875,Russia,Yakutsk,Small
+SVX,Koltsovo International Airport,4247541,Russia,Yekaterinburg,Medium
+UUS,Yuzhno-Sakhalinsk Airport,849184,Russia,Yuzhno-Sakhalinsk,Small
+AAL,Aalborg Airport,1440477,Denmark,Aalborg,Small
+AAR,Aarhus Airport,364546,Denmark,Aarhus,Small
+BLL,Billund Airport,2910735,Denmark,Billund,Medium
+CPH,Copenhagen Airport,26610332,Denmark,Copenhagen,Large
+FAE,Vágar Airport,276385,Faroe Islands,Vágar,Non-Hub
+MHQ,Mariehamn Airport,59336,Finland,Åland,Non-Hub
+HEL,Helsinki-Vantaa Airport,16422266,Finland,Helsinki,Medium
+KTT,Kittilä Airport,226819,Finland,Kittilä,Non-Hub
+KUO,Kuopio Airport,232267,Finland,Kuopio,Non-Hub
+KAO,Kuusamo Airport,68905,Finland,Kuusamo,Non-Hub
+LPP,Lappeenranta Airport,35792,Finland,Lappeenranta,Non-Hub
+OUL,Oulu Airport,982793,Finland,Oulu,Small
+RVN,Rovaniemi Airport,478347,Finland,Rovaniemi,Small
+TMP,Tampere–Pirkkala Airport,357082,Finland,Tampere,Small
+TKU,Turku Airport,312105,Finland,Turku,Non-Hub
+VAA,Vaasa Airport,282437,Finland,Vaasa,Non-Hub
+AEY,Akureyri Airport,176576,Iceland,Akureyri,Non-Hub
+KEF,Keflavik International Airport,4858776,Iceland,Reykjavík,Medium
+AES,Ålesund Airport,1080045,Norway,Ålesund,Small
+BGO,Bergen Airport,6020866,Norway,Bergen,Medium
+BOO,Bodø Airport,1733330,Norway,Bodø,Small
+HAU,Haugesund Airport,659937,Norway,Haugesund,Small
+KRS,"Kristiansand Airport, Kjevik",1058231,Norway,Kristiansand,Small
+OSL,"Oslo Airport, Gardermoen",24678195,Norway,Oslo,Large
+SVG,Stavanger Airport,4501368,Norway,Stavanger,Medium
+TOS,Tromsø Airport,2009146,Norway,Tromsø,Small
+TRD,Trondheim Airport,4352721,Norway,Trondheim,Medium
+GOT,Göteborg Landvetter Airport,6162456,Sweden,Gothenburg,Medium
+LLA,Luleå Airport,1177131,Sweden,Luleå,Small
+MMX,Malmö Airport,2169901,Sweden,Malmö,Small
+NRK,Norrköping Airport,109137,Sweden,Norrköping,Non-Hub
+OSD,Åre Östersund Airport,465196,Sweden,Östersund,Small
+ARN,Stockholm Arlanda Airport,23142536,Sweden,Stockholm,Large
+SDL,Sundsvall–Timrå Airport,273527,Sweden,Sundsvall,Small
+UME,Umeå Airport,1047081,Sweden,Umeå,Small
+VXO,Växjö Airport,185980,Sweden,Växjö,Non-Hub
+VBY,Visby Airport,431430,Sweden,Visby,Small
+BHX,Birmingham International Airport,10187150,England and Wales,Birmingham,Medium
+BOH,Bournemouth Airport,705545,England and Wales,Bournemouth,Small
+BRS,Bristol Airport,6786810,England and Wales,Bristol,Medium
+CWL,Cardiff Airport,1160335,England and Wales,Cardiff,Small
+DSA,Robin Hood Airport Doncaster Sheffield,857020,England and Wales,Doncaster/Sheffield,Small
+MME,Durham Tees Valley Airport,140525,England and Wales,Middlesbrough,Non-Hub
+EMA,East Midlands Airport,4450810,England and Wales,Nottingham/Leicester,Medium
+EXT,Exeter International Airport,821250,England and Wales,Exeter,Small
+LBA,Leeds Bradford International Airport,3445235,England and Wales,Leeds/Bradford,Small
+LPL,Liverpool John Lennon Airport,4301525,England and Wales,Liverpool,Medium
+LCY,London City Airport,4319410,England and Wales,London,Medium
+MAN,Manchester Airport,23135890,England and Wales,Manchester,Large
+NCL,Newcastle Airport,4562865,England and Wales,Newcastle upon Tyne,Medium
+NQY,Newquay Cornwall Airport,250390,England and Wales,Newquay,Non-Hub
+NWI,Norwich International Airport,458805,England and Wales,Norwich,Small
+SOU,Southampton Airport,1789595,England and Wales,Southampton,Small
+ABZ,Aberdeen Airport,3469690,Scotland,Aberdeen,Medium
+EDI,Edinburgh Airport,11114615,Scotland,Edinburgh,Medium
+GLA,Glasgow International Airport,8714375,Scotland,Glasgow,Medium
+INV,Inverness Airport,612835,Scotland,Inverness,Small
+BFS,Belfast International Airport,4391315,Northern Ireland,Belfast,Medium
+LDY,City of Derry Airport,284335,Northern Ireland,Derry,Non-Hub
+ADL,Adelaide Airport,7670110,Australia,Adelaide,Medium
+BNE,Brisbane Airport,21918250,Australia,Brisbane,Large
+CNS,Cairns Airport,4390950,Australia,Cairns,Medium
+OOL,Gold Coast Airport,5867375,Australia,Gold Coast,Medium
+HBA,Hobart Airport,2186350,Australia,Hobart,Small
+MEL,Melbourne Airport,32314180,Australia,Melbourne,Medium
+PER,Perth Airport,13984245,Australia,Perth,Medium
+PHE,Port Hedland International Airport,470850,Australia,Port Hedland,Small
+SYD,Sydney Airport,39656155,Australia,Sydney,Large
+TSV,Townsville Airport,1664035,Australia,Townsville,Small
+PPT,Faa'a International Airport,1195010,French Polynesia,Papeete,
+AKL,Auckland Airport,15892830,New Zealand,Auckland,
+CHC,Christchurch Airport,6092945,New Zealand,Christchurch,
+ZQN,Queenstown Airport,1409630,New Zealand,Queenstown,
+WLG,Wellington Airport,5457115,New Zealand,Wellington,
