@@ -1,229 +1,229 @@
-index,Region,Population,Country
-0,Asia,"1,411,778,724",China
-1,Asia,"1,386,826,135",India
-2,Americas,"333,056,253",United States
-3,Asia,"271,350,000",Indonesia
-4,Asia,"225,200,000",Pakistan
-5,Americas,"214,218,402",Brazil
-6,Africa,"211,401,000",Nigeria
-7,Asia,"172,045,698",Bangladesh
-8,Europe,"146,171,015",Russia
-9,Americas,"126,014,024",Mexico
-10,Asia,"125,470,000",Japan
-11,Africa,"117,876,000",Ethiopia
-12,Asia,"111,361,343",Philippines
-13,Africa,"102,809,848",Egypt
-14,Asia,"98,510,000",Vietnam
-15,Africa,"92,378,000",DR Congo
-16,Asia,"85,112,578",Iran
-17,Asia,"83,614,362",Turkey
-18,Europe,"83,222,442",Germany
-19,Europe,"68,035,000",France
-20,Europe,"67,081,234",United Kingdom
-21,Asia,"66,741,642",Thailand
-22,Africa,"60,142,978",South Africa
-23,Africa,"59,441,988",Tanzania
-24,Europe,"59,097,904",Italy
-25,Asia,"55,294,979",Myanmar
-26,Asia,"51,671,569",South Korea
-27,Americas,"51,049,498",Colombia
-28,Africa,"47,564,296",Kenya
-29,Europe,"47,394,223",Spain
-30,Americas,"45,808,747",Argentina
-31,Africa,"44,700,000",Algeria
-32,Africa,"44,113,795",Sudan
-33,Africa,"42,885,900",Uganda
-34,Europe,"41,270,899",Ukraine
-35,Asia,"41,190,700",Iraq
-36,Americas,"38,546,743",Canada
-37,Europe,"38,139,000",Poland
-38,Africa,"36,486,391",Morocco
-39,Asia,"35,317,731",Uzbekistan
-40,Asia,"35,013,414",Saudi Arabia
-41,Americas,"33,035,304",Peru
-42,Asia,"32,890,171",Afghanistan
-43,Asia,"32,691,400",Malaysia
-44,Africa,"32,097,671",Angola
-45,Africa,"30,832,244",Mozambique
-46,Africa,"30,792,608",Ghana
-47,Asia,"30,491,000",Yemen
-48,Asia,"30,378,055",Nepal
-49,Americas,"28,705,000",Venezuela
-50,Africa,"27,087,732",Ivory Coast
-51,Africa,"26,923,353",Madagascar
-52,Oceania,"25,932,204",Australia
-53,Asia,"25,660,000",North Korea
-54,Africa,"24,348,251",Cameroon
-55,Africa,"24,112,753",Niger
-56,Asia,"23,413,879",Taiwan
-57,Asia,"22,156,000",Sri Lanka
-58,Africa,"21,510,181",Burkina Faso
-59,Africa,"20,856,000",Mali
-60,Americas,"19,678,363",Chile
-61,Europe,"19,186,201",Romania
-62,Asia,"19,140,304",Kazakhstan
-63,Africa,"18,898,441",Malawi
-64,Africa,"18,400,556",Zambia
-65,Asia,"18,276,000",Syria
-66,Americas,"17,898,152",Ecuador
-67,Europe,"17,679,581",Netherlands
-68,Africa,"17,223,497",Senegal
-69,Americas,"17,109,746",Guatemala
-70,Africa,"16,818,391",Chad
-71,Africa,"16,360,000",Somalia
-72,Africa,"15,790,716",Zimbabwe
-73,Asia,"15,552,211",Cambodia
-74,Africa,"13,249,924",South Sudan
-75,Africa,"12,955,768",Rwanda
-76,Africa,"12,907,395",Guinea
-77,Africa,"12,574,571",Burundi
-78,Africa,"12,506,347",Benin
-79,Americas,"11,797,257",Bolivia
-80,Africa,"11,746,695",Tunisia
-81,Americas,"11,743,017",Haiti
-82,Europe,"11,601,753",Belgium
-83,Americas,"11,181,595",Cuba
-84,Asia,"11,122,168",Jordan
-85,Europe,"10,678,632",Greece
-86,Europe,"10,682,029",Czech Republic
-87,Americas,"10,535,535",Dominican Republic
-88,Europe,"10,443,153",Sweden
-89,Europe,"10,347,892",Portugal
-90,Asia,"10,139,196",Azerbaijan
-91,Europe,"9,730,772",Hungary
-92,Asia,"9,504,000",Tajikistan
-93,Asia,"9,503,738",United Arab Emirates
-94,Asia,"9,459,260",Israel
-95,Americas,"9,450,711",Honduras
-96,Europe,"9,349,645",Belarus
-97,Oceania,"9,122,994",Papua New Guinea
-98,Europe,"8,976,467",Austria
-99,Europe,"8,717,105",Switzerland
-100,Africa,"8,297,882",Sierra Leone
-101,Africa,"7,886,000",Togo
-102,Asia,"7,394,700",Hong Kong
-103,Americas,"7,353,038",Paraguay
-104,Asia,"7,337,783",Laos
-105,Africa,"6,959,000",Libya
-106,Europe,"6,871,547",Serbia
-107,Americas,"6,825,935",El Salvador
-108,Asia,"6,769,000",Lebanon
-109,Asia,"6,663,000",Kyrgyzstan
-110,Americas,"6,595,674",Nicaragua
-111,Europe,"6,520,314",Bulgaria
-112,Asia,"6,118,000",Turkmenistan
-113,Europe,"5,867,412",Denmark
-114,Africa,"5,657,000",Congo
-115,Africa,"5,633,412",Central African Republic
-116,Europe,"5,517,780",Finland
-117,Europe,"5,459,781",Slovakia
-118,Asia,"5,453,600",Singapore
-119,Europe,"5,415,166",Norway
-120,Asia,"5,227,193",Palestine
-121,Americas,"5,163,038",Costa Rica
-122,Oceania,"5,136,583",New Zealand
-123,Europe,"5,011,500",Ireland
-124,Asia,"4,670,713",Kuwait
-125,Africa,"4,661,010",Liberia
-126,Asia,"4,447,408",Oman
-127,Americas,"4,278,500",Panama
-128,Africa,"4,271,197",Mauritania
-129,Europe,"3,888,529",Croatia
-130,Asia,"3,728,573",Georgia
-131,Africa,"3,601,000",Eritrea
-132,Americas,"3,554,915",Uruguay
-133,Asia,"3,417,617",Mongolia
-134,Europe,"3,320,954",Bosnia and Herzegovina
-135,Americas,"3,285,874",Puerto Rico
-136,Asia,"2,963,900",Armenia
-137,Europe,"2,829,741",Albania
-138,Asia,"2,799,202",Qatar
-139,Europe,"2,777,991",Lithuania
-140,Americas,"2,734,093",Jamaica
-141,Europe,"2,597,100",Moldova
-142,Africa,"2,550,226",Namibia
-143,Africa,"2,487,000",Gambia
-144,Africa,"2,410,338",Botswana
-145,Africa,"2,233,272",Gabon
-146,Africa,"2,159,000",Lesotho
-147,Europe,"2,108,977",Slovenia
-148,Europe,"2,068,808",North Macedonia
-149,Europe,"1,879,700",Latvia
-150,Europe,"1,782,115",Kosovo
-151,Africa,"1,646,077",Guinea-Bissau
-152,Africa,"1,505,588",Equatorial Guinea
-153,Asia,"1,501,635",Bahrain
-154,Americas,"1,367,558",Trinidad and Tobago
-155,Europe,"1,330,068",Estonia
-156,Asia,"1,317,780",East Timor
-157,Africa,"1,266,334",Mauritius
-158,Africa,"1,172,000",Eswatini
-159,Africa,"976,107",Djibouti
-160,Oceania,"898,402",Fiji
-161,Asia,"888,005",Cyprus
-162,Africa,"758,316",Comoros
-163,Asia,"756,129",Bhutan
-164,Americas,"743,699",Guyana
-165,Oceania,"728,041",Solomon Islands
-166,Asia,"682,300",Macau
-167,Europe,"634,730",Luxembourg
-168,Europe,"621,306",Montenegro
-169,Africa,"612,000",Western Sahara
-170,Americas,"598,000",Suriname
-171,Africa,"563,198",Cape Verde
-172,Europe,"514,564",Malta
-173,Europe,"469,000",Transnistria
-174,Americas,"430,191",Belize
-175,Asia,"429,999",Brunei
-176,Americas,"393,450",Bahamas
-177,Asia,"383,135",Maldives
-178,Europe,"374,830",Iceland
-179,Asia,"372,486",Northern Cyprus
-180,Oceania,"301,295",Vanuatu
-181,Americas,"288,000",Barbados
-182,Oceania,"279,890",French Polynesia
-183,Oceania,"273,674",New Caledonia
-184,Asia,"245,424",Abkhazia
-185,Africa,"214,610",São Tomé and Príncipe
-186,Oceania,"199,853",Samoa
-187,Americas,"178,696",Saint Lucia
-188,Oceania,"178,306",Guam
-189,Americas,"153,671",Curaçao
-190,Asia,"148,900",Republic of Artsakh
-191,Oceania,"120,740",Kiribati
-192,Americas,"113,000",Grenada
-193,Americas,"111,050",Aruba
-194,Americas,"110,696",Saint Vincent and the Grenadines
-195,Europe,"107,800",Jersey
-196,Oceania,"105,754",Micronesia
-197,Americas,"104,000",U.S. Virgin Islands
-198,Oceania,"99,532",Tonga
-199,Americas,"99,337",Antigua and Barbuda
-200,Africa,"99,202",Seychelles
-201,Europe,"85,000",Isle of Man
-202,Europe,"78,015",Andorra
-203,Americas,"72,000",Dominica
-204,Americas,"65,786",Cayman Islands
-205,Americas,"64,055",Bermuda
-206,Europe,"63,124",Guernsey
-207,Oceania,"56,951",American Samoa
-208,Oceania,"56,801",Northern Mariana Islands
-209,Americas,"56,653",Greenland
-210,Oceania,"54,516",Marshall Islands
-211,Americas,"54,000",Saint Kitts and Nevis
-212,Asia,"53,532",South Ossetia
-213,Europe,"53,613",Faroe Islands
-214,Americas,"42,953",Turks and Caicos Islands
-215,Americas,"41,486",Sint Maarten
-216,Europe,"39,151",Liechtenstein
-217,Europe,"38,350",Monaco
-218,Americas,"34,065",Saint Martin
-219,Europe,"34,000",Gibraltar
-220,Europe,"33,668",San Marino
-221,Europe,"30,317",Åland
-222,Americas,"30,000",British Virgin Islands
-223,Oceania,"17,957",Palau
-224,Oceania,"15,342",Cook Islands
-225,Americas,"15,000",Anguilla
-226,Oceania,"11,832",Nauru
-227,Oceania,"11,369",Wallis and Futuna
+,Region,Population,Country
+0,Asia,1411778724,China
+1,Asia,1386826135,India
+2,Americas,333056253,United States
+3,Asia,271350000,Indonesia
+4,Asia,225200000,Pakistan
+5,Americas,214218402,Brazil
+6,Africa,211401000,Nigeria
+7,Asia,172045698,Bangladesh
+8,Europe,146171015,Russia
+9,Americas,126014024,Mexico
+10,Asia,125470000,Japan
+11,Africa,117876000,Ethiopia
+12,Asia,111361343,Philippines
+13,Africa,102809848,Egypt
+14,Asia,98510000,Vietnam
+15,Africa,92378000,DR Congo
+16,Asia,85112578,Iran
+17,Asia,83614362,Turkey
+18,Europe,83222442,Germany
+19,Europe,68035000,France
+20,Europe,67081234,United Kingdom
+21,Asia,66741642,Thailand
+22,Africa,60142978,South Africa
+23,Africa,59441988,Tanzania
+24,Europe,59097904,Italy
+25,Asia,55294979,Myanmar
+26,Asia,51671569,South Korea
+27,Americas,51049498,Colombia
+28,Africa,47564296,Kenya
+29,Europe,47394223,Spain
+30,Americas,45808747,Argentina
+31,Africa,44700000,Algeria
+32,Africa,44113795,Sudan
+33,Africa,42885900,Uganda
+34,Europe,41270899,Ukraine
+35,Asia,41190700,Iraq
+36,Americas,38546743,Canada
+37,Europe,38139000,Poland
+38,Africa,36486391,Morocco
+39,Asia,35317731,Uzbekistan
+40,Asia,35013414,Saudi Arabia
+41,Americas,33035304,Peru
+42,Asia,32890171,Afghanistan
+43,Asia,32691400,Malaysia
+44,Africa,32097671,Angola
+45,Africa,30832244,Mozambique
+46,Africa,30792608,Ghana
+47,Asia,30491000,Yemen
+48,Asia,30378055,Nepal
+49,Americas,28705000,Venezuela
+50,Africa,27087732,Ivory Coast
+51,Africa,26923353,Madagascar
+52,Oceania,25932204,Australia
+53,Asia,25660000,North Korea
+54,Africa,24348251,Cameroon
+55,Africa,24112753,Niger
+56,Asia,23413879,Taiwan
+57,Asia,22156000,Sri Lanka
+58,Africa,21510181,Burkina Faso
+59,Africa,20856000,Mali
+60,Americas,19678363,Chile
+61,Europe,19186201,Romania
+62,Asia,19140304,Kazakhstan
+63,Africa,18898441,Malawi
+64,Africa,18400556,Zambia
+65,Asia,18276000,Syria
+66,Americas,17898152,Ecuador
+67,Europe,17679581,Netherlands
+68,Africa,17223497,Senegal
+69,Americas,17109746,Guatemala
+70,Africa,16818391,Chad
+71,Africa,16360000,Somalia
+72,Africa,15790716,Zimbabwe
+73,Asia,15552211,Cambodia
+74,Africa,13249924,South Sudan
+75,Africa,12955768,Rwanda
+76,Africa,12907395,Guinea
+77,Africa,12574571,Burundi
+78,Africa,12506347,Benin
+79,Americas,11797257,Bolivia
+80,Africa,11746695,Tunisia
+81,Americas,11743017,Haiti
+82,Europe,11601753,Belgium
+83,Americas,11181595,Cuba
+84,Asia,11122168,Jordan
+85,Europe,10678632,Greece
+86,Europe,10682029,Czech Republic
+87,Americas,10535535,Dominican Republic
+88,Europe,10443153,Sweden
+89,Europe,10347892,Portugal
+90,Asia,10139196,Azerbaijan
+91,Europe,9730772,Hungary
+92,Asia,9504000,Tajikistan
+93,Asia,9503738,United Arab Emirates
+94,Asia,9459260,Israel
+95,Americas,9450711,Honduras
+96,Europe,9349645,Belarus
+97,Oceania,9122994,Papua New Guinea
+98,Europe,8976467,Austria
+99,Europe,8717105,Switzerland
+100,Africa,8297882,Sierra Leone
+101,Africa,7886000,Togo
+102,Asia,7394700,Hong Kong
+103,Americas,7353038,Paraguay
+104,Asia,7337783,Laos
+105,Africa,6959000,Libya
+106,Europe,6871547,Serbia
+107,Americas,6825935,El Salvador
+108,Asia,6769000,Lebanon
+109,Asia,6663000,Kyrgyzstan
+110,Americas,6595674,Nicaragua
+111,Europe,6520314,Bulgaria
+112,Asia,6118000,Turkmenistan
+113,Europe,5867412,Denmark
+114,Africa,5657000,Congo
+115,Africa,5633412,Central African Republic
+116,Europe,5517780,Finland
+117,Europe,5459781,Slovakia
+118,Asia,5453600,Singapore
+119,Europe,5415166,Norway
+120,Asia,5227193,Palestine
+121,Americas,5163038,Costa Rica
+122,Oceania,5136583,New Zealand
+123,Europe,5011500,Ireland
+124,Asia,4670713,Kuwait
+125,Africa,4661010,Liberia
+126,Asia,4447408,Oman
+127,Americas,4278500,Panama
+128,Africa,4271197,Mauritania
+129,Europe,3888529,Croatia
+130,Asia,3728573,Georgia
+131,Africa,3601000,Eritrea
+132,Americas,3554915,Uruguay
+133,Asia,3417617,Mongolia
+134,Europe,3320954,Bosnia and Herzegovina
+135,Americas,3285874,Puerto Rico
+136,Asia,2963900,Armenia
+137,Europe,2829741,Albania
+138,Asia,2799202,Qatar
+139,Europe,2777991,Lithuania
+140,Americas,2734093,Jamaica
+141,Europe,2597100,Moldova
+142,Africa,2550226,Namibia
+143,Africa,2487000,Gambia
+144,Africa,2410338,Botswana
+145,Africa,2233272,Gabon
+146,Africa,2159000,Lesotho
+147,Europe,2108977,Slovenia
+148,Europe,2068808,North Macedonia
+149,Europe,1879700,Latvia
+150,Europe,1782115,Kosovo
+151,Africa,1646077,Guinea-Bissau
+152,Africa,1505588,Equatorial Guinea
+153,Asia,1501635,Bahrain
+154,Americas,1367558,Trinidad and Tobago
+155,Europe,1330068,Estonia
+156,Asia,1317780,East Timor
+157,Africa,1266334,Mauritius
+158,Africa,1172000,Eswatini
+159,Africa,976107,Djibouti
+160,Oceania,898402,Fiji
+161,Asia,888005,Cyprus
+162,Africa,758316,Comoros
+163,Asia,756129,Bhutan
+164,Americas,743699,Guyana
+165,Oceania,728041,Solomon Islands
+166,Asia,682300,Macau
+167,Europe,634730,Luxembourg
+168,Europe,621306,Montenegro
+169,Africa,612000,Western Sahara
+170,Americas,598000,Suriname
+171,Africa,563198,Cape Verde
+172,Europe,514564,Malta
+173,Europe,469000,Transnistria
+174,Americas,430191,Belize
+175,Asia,429999,Brunei
+176,Americas,393450,Bahamas
+177,Asia,383135,Maldives
+178,Europe,374830,Iceland
+179,Asia,372486,Northern Cyprus
+180,Oceania,301295,Vanuatu
+181,Americas,288000,Barbados
+182,Oceania,279890,French Polynesia
+183,Oceania,273674,New Caledonia
+184,Asia,245424,Abkhazia
+185,Africa,214610,São Tomé and Príncipe
+186,Oceania,199853,Samoa
+187,Americas,178696,Saint Lucia
+188,Oceania,178306,Guam
+189,Americas,153671,Curaçao
+190,Asia,148900,Republic of Artsakh
+191,Oceania,120740,Kiribati
+192,Americas,113000,Grenada
+193,Americas,111050,Aruba
+194,Americas,110696,Saint Vincent and the Grenadines
+195,Europe,107800,Jersey
+196,Oceania,105754,Micronesia
+197,Americas,104000,U.S. Virgin Islands
+198,Oceania,99532,Tonga
+199,Americas,99337,Antigua and Barbuda
+200,Africa,99202,Seychelles
+201,Europe,85000,Isle of Man
+202,Europe,78015,Andorra
+203,Americas,72000,Dominica
+204,Americas,65786,Cayman Islands
+205,Americas,64055,Bermuda
+206,Europe,63124,Guernsey
+207,Oceania,56951,American Samoa
+208,Oceania,56801,Northern Mariana Islands
+209,Americas,56653,Greenland
+210,Oceania,54516,Marshall Islands
+211,Americas,54000,Saint Kitts and Nevis
+212,Asia,53532,South Ossetia
+213,Europe,53613,Faroe Islands
+214,Americas,42953,Turks and Caicos Islands
+215,Americas,41486,Sint Maarten
+216,Europe,39151,Liechtenstein
+217,Europe,38350,Monaco
+218,Americas,34065,Saint Martin
+219,Europe,34000,Gibraltar
+220,Europe,33668,San Marino
+221,Europe,30317,Åland
+222,Americas,30000,British Virgin Islands
+223,Oceania,17957,Palau
+224,Oceania,15342,Cook Islands
+225,Americas,15000,Anguilla
+226,Oceania,11832,Nauru
+227,Oceania,11369,Wallis and Futuna
